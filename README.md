@@ -1,1 +1,1 @@
-# ucsa_earth_course2023
+# ucsa_earth_course
